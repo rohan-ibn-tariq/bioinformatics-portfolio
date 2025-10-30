@@ -3,3 +3,6 @@ This is Muhammad Rohan Ali Asmat's work portfolio in the domain of bioinformatic
 
 [Fixing Color Issue](https://github.com/varlociraptor/varlociraptor/pull/520)  
 [UX Issue](https://github.com/varlociraptor/varlociraptor/issues/521)
+
+## Feature Requests
+[Rust-Bio: Implementing UCSC Binning Scheme](https://github.com/rust-bio/rust-bio/issues/647)
