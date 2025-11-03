@@ -38,6 +38,7 @@ The table of contents are as follows:
       1. [Updated Requirement Section of The Tutorial With Warning of Not Installing The Tools Manually. Improves Readability and Usability](https://github.com/snakemake/snakemake/pull/3607) -- **iFixed🔐**
       2. [Artifacts That can be added Docsets, Biolerplate(s), Cheatsheet(s)](https://github.com/snakemake/snakemake/issues/3584)
       3. [Updated Wrapper Version in Tutorial and Used Simple Rule For Consistency & Ease](https://github.com/snakemake/snakemake/pull/3605) -- **iFixed🔐**
+      4. [Added snakemake command to execute the rule plot_with_python](https://github.com/snakemake/snakemake/pull/3608) -- **iFixed🔐** -- Fixes [#3587](https://github.com/snakemake/snakemake/issues/3587)
 
 
 ## UX Issues
