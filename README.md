@@ -1,6 +1,16 @@
 # bioinformatics-portfolio
 This is Muhammad Rohan Ali Asmat's work portfolio in the domain of bioinformatics.
 
+The table of contents are as follows: 
+1. [Papers](#papers)
+2. [Workflows](#workflows)
+3. [Feature Requests](#feature-requests)
+4. [Bugs Reported](#bugs-reported)
+5. [Documentation](#documentation)
+6. [UX Issues](#ux-issues)
+7. 
+
+
 ## Papers 
 
 ## Workflows
@@ -12,10 +22,6 @@ This is Muhammad Rohan Ali Asmat's work portfolio in the domain of bioinformatic
 2. Snakemake
    1. Snakemake-Wrapper-Utils
       1. [Make the get_format function of snakemake module cater more fasta file extension types](https://github.com/snakemake/snakemake-wrapper-utils/issues/48) -- **smoneImplemented**
-
-## UX Issues
-1. Varlociraptor
-   1. [UX Issue](https://github.com/varlociraptor/varlociraptor/issues/521)
 
 ## Bugs Reported
 1. Varlociraptor
@@ -30,3 +36,8 @@ This is Muhammad Rohan Ali Asmat's work portfolio in the domain of bioinformatic
       1. [Expanded installation instructions to include guidance for users installing the plugin with the "pixi" package manager](https://github.com/snakemake/snakemake-plugin-catalog/pull/14) -- **iFixed🔐**
    3. Snakemake
       1. [Updated Requirement Section of The Tutorial With Warning of Not Installing The Tools Manually. Improves Readability and Usability](https://github.com/snakemake/snakemake/pull/3607) -- **iFixed🔐**
+
+
+## UX Issues
+1. Varlociraptor
+   1. [UX Issue](https://github.com/varlociraptor/varlociraptor/issues/521)
