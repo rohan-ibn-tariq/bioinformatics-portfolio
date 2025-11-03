@@ -46,3 +46,5 @@ The table of contents are as follows:
 ## UX Issues
 1. Varlociraptor
    1. [UX Issue](https://github.com/varlociraptor/varlociraptor/issues/521)
+2. Snakemake
+   1. [In Generating Global Report, there are UI/UX issues related to presentation of report](https://github.com/snakemake/snakemake/issues/3589) -- **Johannes Closed IT, by I gave demonstration to him explaining how the issue was critical from UX perspective in terms of maintaining state(s) and visual cue(s).**
