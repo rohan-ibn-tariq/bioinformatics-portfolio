@@ -7,8 +7,9 @@ The table of contents are as follows:
 3. [Feature Requests](#feature-requests)
 4. [Bugs Reported](#bugs-reported)
 5. [Documentation](#documentation)
-6. [UX Issues](#ux-issues)
-7. 
+6. [Chore](#chore)
+7. [UX Issues](#ux-issues)
+8. 
 
 
 ## Papers 
@@ -22,10 +23,12 @@ The table of contents are as follows:
 2. Snakemake
    1. Snakemake-Wrapper-Utils
       1. [Make the get_format function of snakemake module cater more fasta file extension types](https://github.com/snakemake/snakemake-wrapper-utils/issues/48) -- **smoneImplemented**
+   2. Snakemake-Wrappers
+      1. [Add wrapper for Tandem Repeat Finder (TRF) utility](https://github.com/snakemake/snakemake-wrappers/pull/4160) -- **iImplemented🔐**
 
 ## Bugs Reported
 1. Varlociraptor
-   1. [Fixing Color Issue](https://github.com/varlociraptor/varlociraptor/pull/520) -- **iFixed🔐**  
+   1. [Fixing Color Issue](https://github.com/varlociraptor/varlociraptor/pull/520) -- **iFixed🔐**
 
 
 ## Documentation
@@ -48,9 +51,18 @@ The table of contents are as follows:
       5. [Corrected sentence in Instantiating classes section](https://github.com/koesterlab/teaching-data-analysis-visualization-reproducibility/pull/1) -- **iFixed**
       6. 
 
+## Chore
+1. TRF
+   1. [Version mismatch in build with github tag](https://github.com/Benson-Genomics-Lab/TRF/issues/32)
+2. Biconda
+   1. [Update: trf 4.09.1 to trf 4.10.0rc2](https://github.com/bioconda/bioconda-recipes/pull/56931) -- **iupdated🔐**
+3. Snakemake
+   1. Snakemake-Wrappers
+      1. [Updated trf to 4.10.0rc2](https://github.com/snakemake/snakemake-wrappers/pull/4297) -- **iudated🔐**
 
 ## UX Issues
 1. Varlociraptor
    1. [UX Issue](https://github.com/varlociraptor/varlociraptor/issues/521)
 2. Snakemake
-   1. [In Generating Global Report, there are UI/UX issues related to presentation of report](https://github.com/snakemake/snakemake/issues/3589) -- **Johannes closed it, but I gave demonstration to him(I think later) explaining how the issue was critical from UX perspective in terms of maintaining state(s) and visual cue(s).**
+   1. Snakemake  
+      1. [In Generating Global Report, there are UI/UX issues related to presentation of report](https://github.com/snakemake/snakemake/issues/3589) -- **Johannes closed it, but I gave demonstration to him(I think later) explaining how the issue was critical from UX perspective in terms of maintaining state(s) and visual cue(s).**
