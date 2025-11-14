@@ -58,7 +58,7 @@ The table of contents are as follows:
    1. [Update: trf 4.09.1 to trf 4.10.0rc2](https://github.com/bioconda/bioconda-recipes/pull/56931) -- **iupdated🔐**
 3. Snakemake
    1. Snakemake-Wrappers
-      1. [Updated trf to 4.10.0rc2](https://github.com/snakemake/snakemake-wrappers/pull/4297) -- **iudated🔐**
+      1. [Updated trf to 4.10.0rc2](https://github.com/snakemake/snakemake-wrappers/pull/4297) -- **iupdated🔐**
 
 ## UX Issues
 1. Varlociraptor
