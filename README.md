@@ -17,14 +17,14 @@ The table of contents are as follows:
 ## Workflows
 
 ## Feature Requests
-1. Rust-Bio:  
-   1. [Implementing UCSC Binning Scheme](https://github.com/rust-bio/rust-bio/issues/647)  
-   2. [Utility Functions for Converting Between Linear Error Probabilities and PHRED](https://github.com/rust-bio/rust-bio/issues/649)
-2. Snakemake
-   1. Snakemake-Wrapper-Utils
-      1. [Make the get_format function of snakemake module cater more fasta file extension types](https://github.com/snakemake/snakemake-wrapper-utils/issues/48) -- **smoneImplemented**
-   2. Snakemake-Wrappers
-      1. [Add wrapper for Tandem Repeat Finder (TRF) utility](https://github.com/snakemake/snakemake-wrappers/pull/4160) -- **iImplemented🔐**
+
+| Project     | Subcategory        | Description | Status |
+|-------------|------------------|------------|--------|
+| Rust-Bio    | -                | Implementing UCSC Binning Scheme | [Issue #647](https://github.com/rust-bio/rust-bio/issues/647) |
+| Rust-Bio    | -                | Utility Functions for Converting Between Linear Error Probabilities and PHRED | [Issue #649](https://github.com/rust-bio/rust-bio/issues/649) |
+| Snakemake   | Snakemake-Wrappers | Add wrapper for Tandem Repeat Finder (TRF) utility | [PR #4160](https://github.com/snakemake/snakemake-wrappers/pull/4160) –  **(I Implemented)** |
+| Snakemake   | Snakemake-Wrapper-Utils | Make the get_format function of snakemake module cater more fasta file extension types | [Issue #48](https://github.com/snakemake/snakemake-wrapper-utils/issues/48) – **(Someone Implemented)** |
+
 
 ## Bugs Reported
 1. Varlociraptor
