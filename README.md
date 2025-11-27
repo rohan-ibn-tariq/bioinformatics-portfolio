@@ -29,6 +29,8 @@ The table of contents are as follows:
 ## Bugs Reported
 1. Varlociraptor
    1. [Fixing Color Issue](https://github.com/varlociraptor/varlociraptor/pull/520) -- **iFixed🔐**
+2. pytrf
+    1. [Reported Issue: Extract command crashes with TypeError: "delimiter" must be string, not type (PyTRF 1.4.2)](https://github.com/lmdu/pytrf/issues/6)
 
 
 ## Documentation
@@ -50,7 +52,7 @@ The table of contents are as follows:
       4. [Altair-Step12: corrected the parameter from global to local(df)](https://github.com/koesterlab/teaching-data-analysis-visualization-reproducibility/pull/5) -- **iFixed**
       5. [Corrected sentence in Instantiating classes section](https://github.com/koesterlab/teaching-data-analysis-visualization-reproducibility/pull/1) -- **iFixed**
    5. pytrf
-      1. [Reported missing dependency at bioconda: pyfastx for pytrf](https://github.com/lmdu/pytrf/issues/5)  
+      1. [Reported missing dependency at bioconda: pyfastx for pytrf](https://github.com/lmdu/pytrf/issues/5)
 
 ## Chore
 1. TRF
