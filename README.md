@@ -49,7 +49,8 @@ The table of contents are as follows:
       3. [Altair-Step 9: fixed typing mistake from vertial to vertical](https://github.com/koesterlab/teaching-data-analysis-visualization-reproducibility/pull/4) -- **iFixed**
       4. [Altair-Step12: corrected the parameter from global to local(df)](https://github.com/koesterlab/teaching-data-analysis-visualization-reproducibility/pull/5) -- **iFixed**
       5. [Corrected sentence in Instantiating classes section](https://github.com/koesterlab/teaching-data-analysis-visualization-reproducibility/pull/1) -- **iFixed**
-      6. 
+   5. pytrf
+      1. [Reported missing dependency at bioconda: pyfastx for pytrf](https://github.com/lmdu/pytrf/issues/5)  
 
 ## Chore
 1. TRF
