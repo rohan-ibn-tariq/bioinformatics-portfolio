@@ -45,14 +45,17 @@ The table of contents are as follows:
       3. [Updated Wrapper Version in Tutorial and Used Simple Rule For Consistency & Ease](https://github.com/snakemake/snakemake/pull/3605) -- **iFixed🔐**
       4. [Added snakemake command to execute the rule plot_with_python](https://github.com/snakemake/snakemake/pull/3608) -- **iFixed🔐** -- Fixes [#3587](https://github.com/snakemake/snakemake/issues/3587)
       5. [Updated Reporting Section of The Tutorial(Interaction, Visualization, and Reporting with Snakemake)](https://github.com/snakemake/snakemake/pull/3606) **iFixed🔐** -- Fixes [#3588](https://github.com/snakemake/snakemake/issues/3588)
-   4. teaching-data-analysis-visualization-reproducibility  
-      1. [Corrected sentence meaning by specifying that select() returns a new DataFrame](https://github.com/koesterlab/teaching-data-analysis-visualization-reproducibility/pull/2) -- **iFixed**  
-      2. [Polars:Step 6 - made clear in the sentence that select() returns a new DataFrame instead of modifying old](https://github.com/koesterlab/teaching-data-analysis-visualization-reproducibility/pull/3) -- **iFixed**
-      3. [Altair-Step 9: fixed typing mistake from vertial to vertical](https://github.com/koesterlab/teaching-data-analysis-visualization-reproducibility/pull/4) -- **iFixed**
-      4. [Altair-Step12: corrected the parameter from global to local(df)](https://github.com/koesterlab/teaching-data-analysis-visualization-reproducibility/pull/5) -- **iFixed**
-      5. [Corrected sentence in Instantiating classes section](https://github.com/koesterlab/teaching-data-analysis-visualization-reproducibility/pull/1) -- **iFixed**
-   5. pytrf
-      1. [Reported missing dependency at bioconda: pyfastx for pytrf](https://github.com/lmdu/pytrf/issues/5)
+   4. Snakemake-Wrappers  
+      1. Alignoth  
+         1. [ALIGNOTH documents section formatting is not right](https://github.com/snakemake/snakemake-wrappers/issues/4743)  
+2. teaching-data-analysis-visualization-reproducibility  
+   1. [Corrected sentence meaning by specifying that select() returns a new DataFrame](https://github.com/koesterlab/teaching-data-analysis-visualization-reproducibility/pull/2) -- **iFixed**  
+   2. [Polars:Step 6 - made clear in the sentence that select() returns a new DataFrame instead of modifying old](https://github.com/koesterlab/teaching-data-analysis-visualization-reproducibility/pull/3) -- **iFixed**
+   3. [Altair-Step 9: fixed typing mistake from vertial to vertical](https://github.com/koesterlab/teaching-data-analysis-visualization-reproducibility/pull/4) -- **iFixed**
+   4. [Altair-Step12: corrected the parameter from global to local(df)](https://github.com/koesterlab/teaching-data-analysis-visualization-reproducibility/pull/5) -- **iFixed**
+   5. [Corrected sentence in Instantiating classes section](https://github.com/koesterlab/teaching-data-analysis-visualization-reproducibility/pull/1) -- **iFixed**
+3. pytrf
+   1. [Reported missing dependency at bioconda: pyfastx for pytrf](https://github.com/lmdu/pytrf/issues/5)
 
 ## Chore
 1. TRF
