@@ -4,7 +4,7 @@ This is Muhammad Rohan Ali Asmat's work portfolio in the domain of bioinformatic
 The table of contents are as follows: 
 1. [Papers](#papers)
 2. [Workflows](#workflows)
-3. [Feature Requests](#feature-requests)
+3. [Feature Requests](#feature-requests-or-implementations)
 4. [Bugs Reported](#bugs-reported)
 5. [Documentation](#documentation)
 6. [Chore](#chore)
@@ -17,15 +17,18 @@ The table of contents are as follows:
 
 ## Workflows
 
-## Feature Requests/Implementations
+## Feature Requests or Implementations
 
 | Project   | Subcategory             | Description                                                                                                                                                        | Status              | Work Affiliation                           |
 | --------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- | ------------------------------------------ |
+| Varlociraptor | -               | Implements microsatellite instability (MSI) detection using an approach that provides subclonal resolution and uncertainty quantification, going beyond traditional binary MSI-H/MSS classification. [PR #527](https://github.com/varlociraptor/varlociraptor/pull/527)                                           | **I Implemented**   | Koster lab, supervised by Johannes Kooster |
 | Rust-Bio  | -                       | Implementing UCSC Binning Scheme [Issue #647](https://github.com/rust-bio/rust-bio/issues/647)                                                                     |  | Koster lab, supervised by Johannes Kooster |
 | Rust-Bio  | -                       | Utility Functions for Converting Between Linear Error Probabilities and PHRED [Issue #649](https://github.com/rust-bio/rust-bio/issues/649)                        |  | Koster lab, supervised by Johannes Kooster |
 | Snakemake | Snakemake-Wrappers      | Add wrapper for Tandem Repeat Finder (TRF) utility [PR #4160](https://github.com/snakemake/snakemake-wrappers/pull/4160)                                           | **I Implemented**   | Koster lab, supervised by Johannes Kooster |
+| Snakemake | Snakemake-Wrappers      | Add 4 wrappers for pytrf utility, for four subcommands(extract, findatr, findgtr, findstr) [PR #4745](https://github.com/snakemake/snakemake-wrappers/pull/4745)                                           | **I Implemented**   | Koster lab, supervised by Johannes Kooster |
 | Snakemake | Snakemake-Wrapper-Utils | Make the get_format function of snakemake module cater more fasta file extension types [Issue #48](https://github.com/snakemake/snakemake-wrapper-utils/issues/48) |**Someone Implemented**| Koster lab, supervised by Johannes Kooster |
 
+https://github.com/snakemake/snakemake-wrappers/pull/4745
 
 ## Bugs Reported
 1. Varlociraptor
