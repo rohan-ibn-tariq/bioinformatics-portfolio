@@ -12,18 +12,19 @@ The table of contents are as follows:
 8. 
 
 
+
 ## Papers 
 
 ## Workflows
 
-## Feature Requests
+## Feature Requests/Implementations
 
-| Project     | Subcategory        | Description | Status |
-|-------------|------------------|------------|--------|
-| Rust-Bio    | -                | Implementing UCSC Binning Scheme | [Issue #647](https://github.com/rust-bio/rust-bio/issues/647) |
-| Rust-Bio    | -                | Utility Functions for Converting Between Linear Error Probabilities and PHRED | [Issue #649](https://github.com/rust-bio/rust-bio/issues/649) |
-| Snakemake   | Snakemake-Wrappers | Add wrapper for Tandem Repeat Finder (TRF) utility | [PR #4160](https://github.com/snakemake/snakemake-wrappers/pull/4160) –  **(I Implemented)** |
-| Snakemake   | Snakemake-Wrapper-Utils | Make the get_format function of snakemake module cater more fasta file extension types | [Issue #48](https://github.com/snakemake/snakemake-wrapper-utils/issues/48) – **(Someone Implemented)** |
+| Project   | Subcategory             | Description                                                                                                                                                        | Status              | Work Affiliation                           |
+| --------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- | ------------------------------------------ |
+| Rust-Bio  | -                       | Implementing UCSC Binning Scheme [Issue #647](https://github.com/rust-bio/rust-bio/issues/647)                                                                     |  | Koster lab, supervised by Johannes Kooster |
+| Rust-Bio  | -                       | Utility Functions for Converting Between Linear Error Probabilities and PHRED [Issue #649](https://github.com/rust-bio/rust-bio/issues/649)                        |  | Koster lab, supervised by Johannes Kooster |
+| Snakemake | Snakemake-Wrappers      | Add wrapper for Tandem Repeat Finder (TRF) utility [PR #4160](https://github.com/snakemake/snakemake-wrappers/pull/4160)                                           | **I Implemented**   | Koster lab, supervised by Johannes Kooster |
+| Snakemake | Snakemake-Wrapper-Utils | Make the get_format function of snakemake module cater more fasta file extension types [Issue #48](https://github.com/snakemake/snakemake-wrapper-utils/issues/48) |**Someone Implemented**| Koster lab, supervised by Johannes Kooster |
 
 
 ## Bugs Reported
