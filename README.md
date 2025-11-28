@@ -60,6 +60,8 @@ https://github.com/snakemake/snakemake-wrappers/pull/4745
    5. [Corrected sentence in Instantiating classes section](https://github.com/koesterlab/teaching-data-analysis-visualization-reproducibility/pull/1) -- **iFixed**
 3. pytrf
    1. [Reported missing dependency at bioconda: pyfastx for pytrf](https://github.com/lmdu/pytrf/issues/5)
+4. bioconda  
+   1. [Documentation displays dependencies for only one Python variant despite multiple builds existing](https://github.com/bioconda/bioconda-docs/issues/46)  
 
 ## Chore
 1. TRF
