@@ -24,15 +24,16 @@ The table of contents are as follows:
 | Varlociraptor | Estimation         | Implements microsatellite instability (MSI) detection with subclonal resolution and uncertainty quantification, going beyond traditional binary MSI-H/MSS classification. [PR #527](https://github.com/varlociraptor/varlociraptor/pull/527) | **I Implemented**       | Koster lab, supervised by Johannes Kooster | Rust, dynamic programming |
 | Rust-Bio      | —                  | Implementing UCSC Binning Scheme [Issue #647](https://github.com/rust-bio/rust-bio/issues/647)                                                                                                                                               |   | Koster lab, supervised by Johannes Kooster |                             |
 | Rust-Bio      | —                  | Utility functions for converting between linear error probabilities and PHRED. [Issue #649](https://github.com/rust-bio/rust-bio/issues/649)                                                                                                 |   | Koster lab, supervised by Johannes Kooster |           |
-| Snakemake     | Snakemake-Wrappers | Added wrapper for Tandem Repeat Finder (TRF). [PR #4160](https://github.com/snakemake/snakemake-wrappers/pull/4160)                                                                                                                          | **I Implemented**       | Koster lab, supervised by Johannes Kooster | Snakemake, Python, TRF          |
-| Snakemake     | Snakemake-Wrappers | Added 4 wrappers for pytrf utility (extract, findatr, findgtr, findstr). [PR #4745](https://github.com/snakemake/snakemake-wrappers/pull/4745)                                                                                               | **I Implemented**       | Koster lab, supervised by Johannes Kooster | Snakemake, Python, pytrf         |
+| Snakemake     | Snakemake-Wrappers | Added wrapper for Tandem Repeat Finder (TRF). [PR #4160](https://github.com/snakemake/snakemake-wrappers/pull/4160)                                                                                                                          | **I Implemented**       | Koster lab, supervised by Johannes Kooster | Snakemake, Snakemake-Wrappers, Python, TRF          |
+| Snakemake     | Snakemake-Wrappers | Added 4 wrappers for pytrf utility (extract, findatr, findgtr, findstr). [PR #4745](https://github.com/snakemake/snakemake-wrappers/pull/4745)                                                                                               | **I Implemented**       | Koster lab, supervised by Johannes Kooster | Snakemake, Snakemake-Wrappers, Python, pytrf         |
 | Snakemake     | Wrapper Utils      | Make `get_format` function support more FASTA extensions. [Issue #48](https://github.com/snakemake/snakemake-wrapper-utils/issues/48)                                                                                                        | **Someone Implemented** | Koster lab, supervised by Johannes Kooster | -                    |
 
 ## Bugs Reported
-1. Varlociraptor
-   1. [Fixing Color Issue](https://github.com/varlociraptor/varlociraptor/pull/520) -- **iFixed🔐**
-2. pytrf
-    1. [Reported Issue: Extract command crashes with TypeError: "delimiter" must be string, not type (PyTRF 1.4.2)](https://github.com/lmdu/pytrf/issues/6)
+
+| Project       | Subcategory | Description / Issue                                                                                                               | Status   | Work Affiliation                           | Languages / Technologies |
+| ------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------ | ------------------------ |
+| Varlociraptor | CLI  | Fixed color-handling issue. [Issue #519](https://github.com/varlociraptor/varlociraptor/issues/519) - [PR #520](https://github.com/varlociraptor/varlociraptor/pull/520)                                    | Reported & Fixed  | Koster lab, supervised by Johannes Kooster | Rust                     |
+| pytrf         |  -  | Reported: Extract command crashes with TypeError (“delimiter” must be string). [Issue #6](https://github.com/lmdu/pytrf/issues/6) | Reported | Koster lab, supervised by Johannes Kooster | -                    |
 
 
 ## Documentation
