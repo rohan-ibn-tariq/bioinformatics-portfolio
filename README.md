@@ -72,13 +72,8 @@ The table of contents are as follows:
       1. [Updated trf to 4.10.0rc2](https://github.com/snakemake/snakemake-wrappers/pull/4297) -- **iupdated🔐**
 
 ## UX Issues
-1. Varlociraptor
-   1. [UX Issue](https://github.com/varlociraptor/varlociraptor/issues/521)
-2. Snakemake
-   1. Snakemake  
-      1. [In Generating Global Report, there are UI/UX issues related to presentation of report](https://github.com/snakemake/snakemake/issues/3589) -- **Johannes closed it, but I gave demonstration to him(I think later) explaining how the issue was critical from UX perspective in terms of maintaining state(s) and visual cue(s).**
 
 | Project       | Subcategory | Description / Issue                                                                                                                                                                                                                         | Status       | Work Affiliation                           | Languages / Technologies |
 | ------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------ | ------------------------ |
-| Varlociraptor | UX Issue    | Reported UX issue regarding interface/interaction. [Issue #521](https://github.com/varlociraptor/varlociraptor/issues/521)                                                                                                                  | Reported     | Koster lab, supervised by Johannes Kooster | Rust                     |
-| Snakemake     | UX Issue    | UI/UX issues in the global report generation (presentation, state management, and visual cues). [Issue #3589](https://github.com/snakemake/snakemake/issues/3589) — *Closed by Johannes; I later demonstrated the importance of the issue.* | Demonstrated | Koster lab, supervised by Johannes Kooster | Python / Snakemake       |
+| Varlociraptor | UX Issue    | Reported UX issue regarding interface/interaction. [Issue #521](https://github.com/varlociraptor/varlociraptor/issues/521)                                                                                                                  | Reported     | Intern @ Köster lab, supervised by Johannes Köster |                      |
+| Snakemake     | UX Issue    | UI/UX issues in the global report generation (presentation, state management, and visual cues). [Issue #3589](https://github.com/snakemake/snakemake/issues/3589) — *Closed by Johannes; I later demonstrated the importance of the issue.* | Reported & Demonstrated | Intern @ Köster lab, supervised by Johannes Köster |        |
