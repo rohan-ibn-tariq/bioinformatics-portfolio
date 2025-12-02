@@ -60,7 +60,7 @@ The table of contents are as follows:
 | teaching-data-analysis-visualization-reproducibility | - | Altair-Step12: corrected the parameter from global to local(df). [PR #5](https://github.com/koesterlab/teaching-data-analysis-visualization-reproducibility/pull/5) | **Reported & Fixed** | Intern @ Köster lab, supervised by Johannes Köster | Sphinx, RST |
 | teaching-data-analysis-visualization-reproducibility | - | Corrected sentence in Instantiating classes section. [PR #1](https://github.com/koesterlab/teaching-data-analysis-visualization-reproducibility/pull/1) | **Reported & Fixed** | Intern @ Köster lab, supervised by Johannes Köster | Sphinx, RST |
 | pytrf | - | Reported missing dependency at bioconda: pyfastx for pytrf. [Issue #5](https://github.com/lmdu/pytrf/issues/5) | Reported | Intern @ Köster lab, supervised by Johannes Köster |  |
-| bioconda | Bioconda-Docs | Documentation displays dependencies for only one Python variant despite multiple builds existing. [Issue #46](https://github.com/bioconda/bioconda-docs/issues/46) | Reported | Intern @ Köster lab, supervised by Johannes Köster | Documentation |
+| bioconda | Bioconda-Docs | Documentation displays dependencies for only one Python variant despite multiple builds existing. [Issue #46](https://github.com/bioconda/bioconda-docs/issues/46) | Reported | Intern @ Köster lab, supervised by Johannes Köster |  |
 
 
 
