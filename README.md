@@ -23,6 +23,11 @@ The table of contents are as follows:
 
 ## Benchmarks and Tests
 
+| Project            | Subcategory     | Description                                                                                  | Status         | Work Affiliation / Repo                    | Languages / Technologies / Concepts         |
+|--------------------|-----------------|--------------------------------------------------------------------------------------------------------------|----------------|-------------------------------------------|---------------------------------------------|
+| pytrf-test         | TRF vs pytrf | Created and reported comparison tests for pytrf vs TRF, for the purpose of microsatellite instability quantification or simulating indel injections. [Repository](https://github.com/rohan-ibn-tariq/pytrf-test/tree/master) | **Implemented & reported** | Intern @ Köster lab, supervised by Johannes Köster | Python, shell script, pytrf, TRF, micromamba |
+
+
 ## Feature Requests or Implementations
 
 | Project       | Subcategory        | Description                                                                                                                                                                                                                                  | Status                  | Work Affiliation                           | Languages/Technologies/Concepts             |
