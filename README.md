@@ -49,6 +49,7 @@ The table of contents are as follows:
 | ------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------------ | ------------------------ |
 | Varlociraptor | CLI  | Fixed color-handling issue. [Issue #519](https://github.com/varlociraptor/varlociraptor/issues/519) - [PR #520](https://github.com/varlociraptor/varlociraptor/pull/520)                                    | Reported & Fixed  | Intern @ Köster lab, supervised by Johannes Köster | Rust                     |
 | pytrf         |  -  | Extract command crashes with TypeError (“delimiter” must be string). [Issue #6](https://github.com/lmdu/pytrf/issues/6) | Reported | Intern @ Köster lab, supervised by Johannes Köster | -                    |
+| pytrf         |  -  | Pytrf findstr 'bed' output format not working. [Issue #7](https://github.com/lmdu/pytrf/issues/7) | Reported | Intern @ Köster lab, supervised by Johannes Köster | -                    |
 | SeqAn   | Mason Variator | mason_variator: invalid FORMAT column in VCF output, [issue #1671](https://github.com/seqan/seqan/issues/1671). | **Verified & Notified** | Intern @ Köster lab, supervised by Johannes Köster | Mason Variator, Snakemake |
 | Snakemake | Core  | Reporeted AmbiguousRuleException Issue [Issue #1219](https://github.com/snakemake/snakemake/issues/1219#issuecomment-3710745526)            | Reported  | Intern @ Köster lab, supervised by Johannes Köster | Snakemake, S3
 
