@@ -54,6 +54,7 @@ The table of contents are as follows:
 | pytrf         |  -  | Pytrf findstr 'bed' output format not working. [Issue #7](https://github.com/lmdu/pytrf/issues/7) | Reported | Intern @ Köster lab, supervised by Johannes Köster | -                    |
 | SeqAn   | Mason Variator | mason_variator: invalid FORMAT column in VCF output, [issue #1671](https://github.com/seqan/seqan/issues/1671). | **Verified & Notified** | Intern @ Köster lab, supervised by Johannes Köster | Mason Variator, Snakemake |
 | Snakemake | Core  | Reporeted AmbiguousRuleException Issue [Issue #1219](https://github.com/snakemake/snakemake/issues/1219#issuecomment-3710745526)            | Reported  | Intern @ Köster lab, supervised by Johannes Köster | Snakemake, S3
+| Snakemake | Core  | Reporeted **performance/UX** issue that the dry run should handle the environments also based on actual execution flow like it handles the rules [Issue #3954](https://github.com/snakemake/snakemake/issues/3954)            | Reported  | Intern @ Köster lab, supervised by Johannes Köster | Snakemake
 
 
 ## Documentation
