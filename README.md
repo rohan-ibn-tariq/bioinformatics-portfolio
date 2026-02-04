@@ -55,6 +55,7 @@ The table of contents are as follows:
 | SeqAn   | Mason Variator | mason_variator: invalid FORMAT column in VCF output, [issue #1671](https://github.com/seqan/seqan/issues/1671). | **Verified & Notified** | Intern @ Köster lab, supervised by Johannes Köster | Mason Variator, Snakemake |
 | Snakemake | Core  | Reporeted AmbiguousRuleException Issue [Issue #1219](https://github.com/snakemake/snakemake/issues/1219#issuecomment-3710745526)            | Reported  | Intern @ Köster lab, supervised by Johannes Köster | Snakemake, S3
 | Snakemake | Core  | Reporeted **performance/UX** issue that the dry run should handle the environments also based on actual execution flow like it handles the rules [Issue #3954](https://github.com/snakemake/snakemake/issues/3954)            | Reported  | Intern @ Köster lab, supervised by Johannes Köster | Snakemake
+| Alignoth     |  Vegalite    | Large numeric labels create overlap. [Issue #9761](https://github.com/vega/vega-lite/issues/9761) | Reported to Maintainer Issue in Alignoth who reported it as upstream Vegalite bug | Intern @ Köster lab, supervised by Johannes Köster |        |
 
 
 ## Documentation
@@ -96,3 +97,6 @@ The table of contents are as follows:
 | Varlociraptor | UX Issue    | Reported UX issue regarding interface/interaction. [Issue #521](https://github.com/varlociraptor/varlociraptor/issues/521)                                                                                                                  | Reported     | Intern @ Köster lab, supervised by Johannes Köster |                      |
 | Varlociraptor | UX Issue    | Reported inconsistency in conformity of probabilities description field in VCF's meta-information to latest standard [Issue #531](https://github.com/varlociraptor/varlociraptor/issues/531)                                                                                                                  | Reported     | Intern @ Köster lab, supervised by Johannes Köster | VCF               |
 | Snakemake     | UX Issue    | UI/UX issues in the global report generation (presentation, state management, and visual cues). [Issue #3589](https://github.com/snakemake/snakemake/issues/3589) — *Closed by Johannes; I later demonstrated the importance of the issue.* | Reported & Demonstrated | Intern @ Köster lab, supervised by Johannes Köster |        |
+| Alignoth     |  -    | UX: Highlighted Site of VCF is not showing details on hover for truncated text. [Issue #427](https://github.com/alignoth/alignoth/issues/427) | Reported | Intern @ Köster lab, supervised by Johannes Köster |        |
+
+
