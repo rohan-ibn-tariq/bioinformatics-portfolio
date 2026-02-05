@@ -58,6 +58,7 @@ The table of contents are as follows:
 | Snakemake | Core  | Reporeted AmbiguousRuleException Issue [Issue #1219](https://github.com/snakemake/snakemake/issues/1219#issuecomment-3710745526)            | Reported  | Intern @ Köster lab, supervised by Johannes Köster | Snakemake, S3
 | Snakemake | Core  | Reporeted **performance/UX** issue that the dry run should handle the environments also based on actual execution flow like it handles the rules [Issue #3954](https://github.com/snakemake/snakemake/issues/3954)            | Reported  | Intern @ Köster lab, supervised by Johannes Köster | Snakemake
 | Alignoth     |  Vegalite    | Large numeric labels create overlap. [Issue #9761](https://github.com/vega/vega-lite/issues/9761) | Reported to Maintainer Issue in Alignoth who reported it as upstream Vegalite bug | Intern @ Köster lab, supervised by Johannes Köster |        |
+| Alignoth     |  -    | Bug: Incomplete Sites being shown in the sidebar. VCF has 5 relevant sites whereas it shows only 4. [Issue #431](https://github.com/alignoth/alignoth/issues/431) | Reported | Intern @ Köster lab, supervised by Johannes Köster |        |
 
 ## Documentation
 
