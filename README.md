@@ -44,6 +44,8 @@ The table of contents are as follows:
 | Snakemake     | Snakemake-Wrappers | Added 4 wrappers for pytrf utility (extract, findatr, findgtr, findstr). [PR #4745](https://github.com/snakemake/snakemake-wrappers/pull/4745)                                                                                               | **Implemented**       | Intern @ Köster lab, supervised by Johannes Köster | Snakemake, Snakemake-Wrappers, Python, pytrf         |
 | Snakemake     | Snakemake-Wrappers | Feature Request: Adding Wrapper(s) for Gnomad Resources. [Issue #4921](https://github.com/snakemake/snakemake-wrappers/issues/4921)                                                                                               | Reported       | Intern @ Köster lab, supervised by Johannes Köster |         |
 | Snakemake     | Wrapper Utils      | Make `get_format` function support more FASTA extensions. [Issue #48](https://github.com/snakemake/snakemake-wrapper-utils/issues/48)                                                                                                        | Reported | Intern @ Köster lab, supervised by Johannes Köster | -                    |
+| Vega-Lite     |  -      | UX: Tooltips and Linebreaks for Legend Labels. [Issue #9762](https://github.com/vega/vega-lite/issues/9762)                                                                                                        | Reported | Intern @ Köster lab, supervised by Johannes Köster | -                    |
+
 
 ## Bugs Reported
 
