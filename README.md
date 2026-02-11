@@ -81,6 +81,8 @@ The table of contents are as follows:
 | pytrf | - | Reported missing dependency at bioconda: pyfastx for pytrf. [Issue #5](https://github.com/lmdu/pytrf/issues/5) | Reported | Intern @ Köster lab, supervised by Johannes Köster |  |
 | bioconda | Bioconda-Docs | Documentation displays dependencies for only one Python variant despite multiple builds existing. [Issue #46](https://github.com/bioconda/bioconda-docs/issues/46) | Reported | Intern @ Köster lab, supervised by Johannes Köster |  |
 | Alignoth | - | Docs: Coordinate system (1-based vs 0-based) Clarification for --region. [Issue #425](https://github.com/alignoth/alignoth/issues/425) | Reported | Intern @ Köster lab, supervised by Johannes Köster |  |
+| Msisensor | pro | Docs: Is the Position in scan list 1 based or 0 based & is that from a base before the ms region or from first pos of ms region?. [Issue #81](https://github.com/xjtu-omics/msisensor-pro/issues/81) | Reported & Gave Solution | Intern @ Köster lab, supervised by Johannes Köster |  |
+
 
 
 ## Chore
