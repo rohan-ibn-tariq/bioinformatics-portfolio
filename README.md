@@ -2,22 +2,23 @@
 This is Muhammad Rohan Ali Asmat's work portfolio in the domain of bioinformatics.
 
 The table of contents are as follows: 
+<!--
 1. [Papers](#papers)
 2. [Presentations](#presentations)
-3. [Workflows](#workflows)
-4. [Benchmarks and Tests](#benchmarks-and-tests)
-5. [Feature Requests](#feature-requests-or-implementations)
-6. [Bugs Reported](#bugs-reported)
-7. [Documentation](#documentation)
-8. [Chore](#chore)
-9. [UX Issues](#ux-issues)
-10. 
+-->
+1. [Workflows](#workflows)
+2. [Benchmarks and Tests](#benchmarks-and-tests)
+3. [Feature Requests](#feature-requests-or-implementations)
+4. [Bugs Reported](#bugs-reported)
+5. [Documentation](#documentation)
+6. [Chore](#chore)
+7. [UX Issues](#ux-issues) 
 
-
-
+<!--
 ## Papers 
 
 ## Presentations
+-->
 
 ## Workflows
 
