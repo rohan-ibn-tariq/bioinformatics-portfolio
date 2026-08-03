@@ -1,11 +1,12 @@
 # bioinformatics-portfolio
 This is Muhammad Rohan Ali Asmat's work portfolio in the domain of bioinformatics.
+<!--
+[Papers](#papers)
+[Presentations](#presentations)
+-->
+
 
 The table of contents are as follows: 
-<!--
-1. [Papers](#papers)
-2. [Presentations](#presentations)
--->
 1. [Workflows](#workflows)
 2. [Benchmarks and Tests](#benchmarks-and-tests)
 3. [Feature Requests](#feature-requests-or-implementations)
